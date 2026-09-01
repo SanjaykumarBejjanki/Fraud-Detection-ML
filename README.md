@@ -13,12 +13,37 @@ https://fraud-detection-ml-sanjay.streamlit.app/
 https://github.com/SanjaykumarBejjanki/Fraud-Detection-ML
 
 ---
-## 🖥️ Application Preview
 
-![Fraud Detection Dashboard](screenshots/dashboard.png)
+---
 
-The application provides an interactive dashboard for analyzing credit card transactions and estimating fraud probability.
+## 📸 Application Screenshots
 
+### 🏠 Dashboard
+![Fraud Detection AI Dashboard](screenshots/dashboard.png)
+
+### 🔍 Transaction Analyzer
+![Transaction Analyzer](screenshots/transaction-analyzer.png)
+
+### 📊 Fraud Analysis Result
+![Fraud Analysis Result](screenshots/fraud-analysis-result.png)
+
+### 📈 Model Performance
+![Model Performance](screenshots/model-performance.png)
+
+---
+
+## 🚀 Live Demo
+
+🌐 **Try the application:**  
+https://fraud-detection-ml-sanjay.streamlit.app/
+
+## 👨‍💻 Author
+
+**Sanjay Kumar Bejjanki**
+
+AI & Machine Learning | Python | Data Science | Streamlit
+
+⭐ If you find this project useful, consider giving it a star!
 ## ✨ Features
 
 - 🔍 Transaction-level fraud prediction
