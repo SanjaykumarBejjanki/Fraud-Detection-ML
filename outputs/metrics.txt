@@ -1,0 +1,14 @@
+Credit Card Fraud Detection Model
+========================================
+
+Dataset shape: (284807, 31)
+Normal transactions: 284315
+Fraud transactions: 492
+ROC-AUC: 0.9710
+Precision: 0.0579
+Recall: 0.9184
+F1 Score: 0.1089
+
+Confusion Matrix:
+[[55399  1465]
+ [    8    90]]
